@@ -81,7 +81,7 @@
 }
 .margaritas{
 width: 20%;
-margin-top: -45%;
+margin-top: -71%;
 }
 .margaritados{
 width: 18%;
@@ -91,6 +91,8 @@ margin-left: 80%;
 .video{
   margin-top: -2%;
  margin-left: 28%;
+  border: 10px solid #fff2e4;
+  border-radius: 5px;
   
 }
 
